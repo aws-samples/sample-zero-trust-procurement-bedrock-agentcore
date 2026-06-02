@@ -1,0 +1,46 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# CDK
+cdk.out/
+cdk.context.json
+
+# Node
+node_modules/
+package-lock.json
+
+# Secrets — never commit
+.env
+.env.demo
+*.env.local
+*.pem
+*.key
+*.p12
+
+# AWS
+.aws/
+
+# IDE
+.vscode/
+.idea/
+.kiro/
+.claude/
+
+# Agent build artifacts
+agents/*/.bedrock_agentcore/
+agents/*/.bedrock_agentcore.yaml
+*.zip
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# deployment files
+.bedrock_agentcore*
