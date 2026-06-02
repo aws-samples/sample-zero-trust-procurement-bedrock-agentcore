@@ -1,0 +1,14 @@
+# AgentCore Runtime SDK
+bedrock-agentcore==1.6.0
+
+# Strands agent framework
+strands-agents==1.41.0
+
+# MCP Python client — provides streamablehttp_client for ProcurementGateway calls
+mcp==1.27.0
+
+# AWS SDK (for STS / DynamoDB / A2A calls)
+boto3==1.42.25
+
+# HTTP client (for SigV4 auth flow)
+httpx==0.28.1
