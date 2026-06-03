@@ -8,7 +8,7 @@ strands-agents==1.41.0
 mcp==1.27.0
 
 # AWS SDK (for STS / DynamoDB / A2A calls)
-boto3==1.42.25
+boto3==1.42.63
 
 # HTTP client (for SigV4 auth flow)
 httpx==0.28.1

@@ -8,4 +8,4 @@ strands-agents==1.41.0
 mcp==1.27.0
 
 # AWS SDK
-boto3==1.42.25
+boto3==1.42.63
