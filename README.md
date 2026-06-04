@@ -97,3 +97,9 @@ This demo **intentionally** deploys overly permissive IAM policies to illustrate
 - **Rotate Cognito tokens** — the demo uses short-lived tokens (1 hour) but production systems should implement proper refresh token flows
 
 If you discover a potential security issue in this project, please notify AWS/Amazon Security via the [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public GitHub issue for security vulnerabilities.
+
+## Additional Resources
+
+- [AgentCore Samples](https://github.com/awslabs/agentcore-samples)
+- [Zero Trust on AWS](https://aws.amazon.com/security/zero-trust/)
+- [Agent toolkit for AWS](https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/)
