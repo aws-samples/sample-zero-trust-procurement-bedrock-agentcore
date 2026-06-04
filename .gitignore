@@ -44,3 +44,4 @@ agents/*/.bedrock_agentcore.yaml
 
 # deployment files
 .bedrock_agentcore*
+phases.md

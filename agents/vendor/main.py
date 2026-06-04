@@ -53,7 +53,7 @@ def handler(payload, context):
 
     with mcp_client:
         agent = Agent(
-            model=BedrockModel(model_id="us.anthropic.claude-sonnet-4-6", max_tokens=256),
+            model=BedrockModel(model_id="us.anthropic.claude-haiku-4-5-20251001-v1:0", max_tokens=256),
             tools=mcp_client.list_tools_sync(),
             system_prompt=_SYSTEM_PROMPT,
         )
