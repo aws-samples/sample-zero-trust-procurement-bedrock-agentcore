@@ -497,7 +497,7 @@ def main() -> None:
     _enable_transaction_search(session)
 
     print("\n[setup] done.")
-    print(f"  demo password (both users): {DEMO_PASSWORD}")
+    #print(f"  demo password (both users): {DEMO_PASSWORD}")
     print("  run 'source .env.demo' or use make targets: make phase1, make phase2 ...")
 
 
