@@ -100,6 +100,8 @@ If you discover a potential security issue in this project, please notify AWS/Am
 
 ## Additional Resources
 
-- [AgentCore Samples](https://github.com/awslabs/agentcore-samples)
+- [NIST - Zero Trust Architecture](https://csrc.nist.gov/pubs/sp/800/207/final)
 - [Zero Trust on AWS](https://aws.amazon.com/security/zero-trust/)
 - [Agent toolkit for AWS](https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/)
+- [AgentCore Samples](https://github.com/awslabs/agentcore-samples)
+
