@@ -5,7 +5,7 @@ bedrock-agentcore==1.6.0
 strands-agents==1.41.0
 
 # MCP Python client — provides streamablehttp_client for ProcurementGateway calls
-mcp==1.27.0
+mcp==1.28.1
 
 # AWS SDK
 boto3==1.42.63
