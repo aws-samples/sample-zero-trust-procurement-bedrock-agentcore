@@ -10,7 +10,7 @@ botocore==1.42.63
 # AgentCore SDK + Strands
 bedrock-agentcore==1.6.1
 bedrock-agentcore-starter-toolkit==0.3.2
-strands-agents==1.41.0
+strands-agents==1.48.0
 
 # Demo scripts
 httpx==0.28.1
